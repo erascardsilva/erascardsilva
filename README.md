@@ -1,4 +1,4 @@
-<div align="center"><h3>Erasmo Cardoso <p> "Desenvolvedor Back-End"</h3></div>
+<div align="center"><h3>Erasmo Cardoso <p> "Desenvolvedor Back-End | Full"</h3></div>
 <hr>
 Habilidades: 
 
