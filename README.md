@@ -2,7 +2,7 @@
 
 Habilidades: 
 
-<img width = "60px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/3389a869-e02e-4dc9-9118-3441c8478f7e"> | 
+<img width = "60px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/3389a869-e02e-4dc9-9118-3441c8478f7e"> |
 <img width = "50px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/bc247f0c-0f8f-491f-a404-3102327a868d"> |
 <img width = "90px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/0aefe439-664b-4fba-a22f-5e215565ea08"> |
 <img width = "60px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/3971d597-a768-42da-a57d-3a4a4dfc6fcf"> |
