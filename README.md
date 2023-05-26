@@ -1,10 +1,8 @@
 <div align="center"><h3>Erasmo Cardoso - Desenvolvedor de Sistemas Back-End</h3></div>
 
-
 Habilidades: 
 
 <img width = "1000px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/a63aa661-d38d-4d9d-a2fa-d678579b0aa1">
-
 
 
                     C++ | Javascript | Node.js | Express | PHP | Laravel | SQL | Docker | Eletrônica | Linux
