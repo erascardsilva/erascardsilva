@@ -1,4 +1,5 @@
-<h3>          Erasmo Cardoso - Desenvolvedor de Sistemas Back-End</h3>
+<h3>Erasmo Cardoso | Desenvolvedor de Sistemas Back-End</h3>
+
 
 Habilidades: 
 
