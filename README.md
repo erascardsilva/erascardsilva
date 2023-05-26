@@ -1,5 +1,5 @@
-<div align="center"><h3>Erasmo Cardoso - Desenvolvedor de Sistemas Back-End</h3></div>
-
+<div align="center"><h3>Erasmo Cardoso <p> "Desenvolvedor Back-End"</h3></div>
+<hr>
 Habilidades: 
 
 <img width = "1000px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/a63aa661-d38d-4d9d-a2fa-d678579b0aa1">
