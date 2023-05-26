@@ -6,7 +6,7 @@ Habilidades:
 <img width = "50px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/bc247f0c-0f8f-491f-a404-3102327a868d"> |
 <img width = "90px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/0aefe439-664b-4fba-a22f-5e215565ea08"> |
 <img width = "60px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/3971d597-a768-42da-a57d-3a4a4dfc6fcf"> |
-<img width = "80px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/ddc500f5-c38c-4094-affa-b66a3f420578"> |
+<img width = "80px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/607de259-7fb0-4729-a260-b202ef4ec9d6"> |
 <img width = "60px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/5fa40ae9-99f3-48a2-9cfc-03c4dce38ec2"> |
 <img width = "60px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/0ed376ff-8fb4-4511-9b3c-f6bd9eb44b04"> |
 <img width = "60px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/83bf289b-86f6-4f52-82ed-9a25b5990a4d"> |
