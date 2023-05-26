@@ -17,7 +17,7 @@ Habilidades:
 <hr>       
 <h4> Bem-vindo ao meu perfil! <br> Sou um desenvolvedor de sistemas especializado em soluções back-end. 
 Minhas habilidades abrangem linguagens como C++, PHP, Node.js, Javascript.
-além de de Laravel e express.Tenho experiência em bancos de dados SQL
+além de Laravel e express.Tenho experiência em bancos de dados SQL
 e utilizo ferramentas como Docker para garantir a escalabilidade e eficiência das aplicações.</h4><p>
 <hr>
 <h4> Welcome to my profile! <br> I'm a systems developer specializing in back-end solutions.
