@@ -2,7 +2,7 @@
 <hr>
 Habilidades: 
 
-<img width = "1000px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/a63aa661-d38d-4d9d-a2fa-d678579b0aa1">
+<img width = "1000px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/b27f9af8-f8bc-4de7-a2f8-049307e93727">
 
 
                     C++ | Javascript | PHP | Node.js | Express | Laravel | SQL | Docker | Eletrônica | Linux
