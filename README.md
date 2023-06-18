@@ -5,7 +5,7 @@ Habilidades:
 <img width = "1000px" src="https://github.com/erascardsilva/erascardsilva/assets/70297459/b27f9af8-f8bc-4de7-a2f8-049307e93727">
 
 
-                    C++ | Javascript | PHP | Node.js | Express | Laravel | SQL | Docker | Eletrônica | Linux
+       C++ | Javascript | PHP | Node.js | Express | Laravel | SQL | Docker | Eletrônica | Linux
 <hr>       
 <div align="center"><h4> Bem-vindo ao meu perfil! </h4></div>
 <h4>Sou um desenvolvedor de sistemas especializado em soluções back-end. 
