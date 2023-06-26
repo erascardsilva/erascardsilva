@@ -8,8 +8,8 @@ Habilidades:
 C++ | Javascript | PHP | Node.js | Express | Laravel | SQL | Docker | Eletrônica | Linux
 <hr>       
 <div align="center"><h4> Bem-vindo ao meu perfil! </h4></div>
-<h4>Sou um desenvolvedor de sistemas minhas habilidades abrangem linguagens como C++, PHP, Node.js, Javascript,
-Laravel , express , bancos de dados SQL e utilizo ferramentas como Docker para garantir a escalabilidade e eficiência das aplicações.</h4><p>
+<h4>Sou um desenvolvedor de sistemas minhas habilidades abrangem linguagens como C++,PHP, Node.js,Javascript,Laravel , express ,
+bancos de dados SQL e utilizo ferramentas como Docker para garantir a escalabilidade e eficiência das aplicações.</h4><p>
 <hr>
 <div align="center"><h4> Welcome to my profile! </h4></div>
 <h4>I'm a systems developer, my skills cover languages ​​like C++, PHP, Node.js, Javascript,
