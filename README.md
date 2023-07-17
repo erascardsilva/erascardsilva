@@ -7,8 +7,6 @@ Habilidades:
 
 C++ | Javascript | PHP | Node.js | Express | Laravel | SQL | Docker | Eletrônica | Linux
 <hr>       
-<div align="center"><h4> Bem-vindo !!!!!! </h4></div>
-
-<div align="center"><h4> Welcome !!! </h4></div>
+<div align="center"><h4>  Welcome !!!  |    Bem-vindo !!!!!! </h4></div>
 
 <hr>
