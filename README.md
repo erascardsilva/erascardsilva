@@ -1,7 +1,6 @@
 <div align="center"><h3>Erasmo Cardoso <p> "Desenvolvedor Full-Stack"</h3></div>
 <hr>
 
-About Me
 Welcome! I'm Erasmo Cardoso, a full-stack developer constantly learning to efficiently solve complex problems. Here are some of the technologies I work with:
 
 Languages: C++, GoLang, JavaScript (Node.js), PHP, Python
