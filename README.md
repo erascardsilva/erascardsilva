@@ -6,7 +6,7 @@ Welcome! I'm Erasmo Cardoso, a full-stack developer constantly learning to effic
 
 - **Languages:** C++, GoLang, JavaScript (Node.js), PHP, Python
 - **Frameworks/Libraries:** Express, React, Laravel, Electron ,QT
-- **Databases:** SQL, MySQL, MariaDB
+- **Databases:** SQL (MySQL, MariaDB), NoSQL (DynamoDB)
 - **Tools:** Docker
 
 I am always seeking to learn more and stay updated with the latest technologies.
