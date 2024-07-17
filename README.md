@@ -1,4 +1,4 @@
-<div align="center"><h3>"Full Stack Developer"</h3></div>
+<div align="center"><h3>"Developer"</h3></div>
 <hr>
 # About Me
 
