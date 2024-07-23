@@ -8,6 +8,8 @@ Welcome! I'm Erasmo Cardoso, a full-stack developer constantly learning to effic
 - **Frameworks/Libraries:** Express, React, Laravel, Electron ,QT
 - **Databases:** SQL (MySQL, MariaDB), NoSQL (DynamoDB)
 - **Tools:** Docker
+- **Linux, Windows** 
+
 
 I am always seeking to learn more and stay updated with the latest technologies.
 
