@@ -4,7 +4,7 @@
 
 Welcome! I'm Erasmo Cardoso, a full-stack developer constantly learning to efficiently solve complex problems. Here are some of the technologies I work with:
 
-- **Languages:** C++, GoLang, JavaScript (Node.js), PHP, Python
+- **Languages:** C++, C# , GoLang, JavaScript (Node.js), PHP, Python
 - **Frameworks/Libraries:** Express, React, Laravel, Electron ,QT
 - **Databases:** SQL , NoSQL 
 - **Tools:** Docker
