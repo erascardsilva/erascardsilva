@@ -17,6 +17,6 @@ I am always seeking to learn more and stay updated with the latest technologies.
 
 
 
-<div align="center"><h4>  Welcome !!!  |    Bem-vindo !!!!!! </h4></div>
+<div align="center"><h4>    Bem-vindo !!!!!! </h4></div>
 
 <hr>
